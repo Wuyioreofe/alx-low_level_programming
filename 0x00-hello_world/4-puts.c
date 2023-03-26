@@ -1,15 +1,13 @@
 #include <stdio.h>
 
 /**
-* main - entry point
-*
+* main - Entry point
 * Description: This function prints the string "Programming is like building
-* a multilingual puxxle", followed by a new line character, to the consol.
-*
-* return: Always 0 at success
+* a multilingual puzzle", followed by a new line character, to the console.
+* Return: Always returns 0 to indicate success
 */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
